@@ -22,7 +22,8 @@ export default {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: red;
+    background-color: rgb(250, 31, 11);
   }
+
 
 </style>
