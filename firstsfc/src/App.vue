@@ -1,7 +1,7 @@
 <template>
   <h1>Food</h1>
-  <food-Item/>
-  <food-Item2/>
+  <food-item/>
+  <food-item2/>
 </template>
 
 <script></script>
